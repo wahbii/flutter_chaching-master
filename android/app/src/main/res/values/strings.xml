@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">chaching_login</string>
+    <string name="facebook_app_id">2346783288843922</string>
+    <string name="fb_login_protocol_scheme">fb2346783288843922</string>
+    <string name="facebook_client_token">84b89b1fbecb98fa83638301e5e2ad7f</string>
+
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678307364627",
+    "firebase_url": "https://chaching-8ea96-default-rtdb.firebaseio.com",
+    "project_id": "chaching-8ea96",
+    "storage_bucket": "chaching-8ea96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678307364627:android:6d69b84059037c0b23a4e6",
+        "android_client_info": {
+          "package_name": "com.hungps.flutterpokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678307364627-7mh99bru4cjr47l98oof9huve5t6up73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungps.flutterpokedex",
+            "certificate_hash": "a62bc886bf830fcfc44a313c6e6cfdfc7a0caad5"
+          }
+        },
+        {
+          "client_id": "678307364627-q9p85hunmd5uijv4lbopkm5i4ccoqr3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiIdCaL3hZ2FUtOMlUcOY5H_qIDUZ2KoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678307364627-q9p85hunmd5uijv4lbopkm5i4ccoqr3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678307364627-47jhstimrq8k0t4fpvt5dttcev12i0h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hungps.flutterPokedex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
